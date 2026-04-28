@@ -25,4 +25,4 @@ A full-stack Machine Learning project that predicts house prices based on user i
 
 ---
 
-## 📂 Project Structure
+
